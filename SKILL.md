@@ -1,5 +1,7 @@
 ---
 name: habit-engine
+display_name: 习惯与行动力引擎
+display_name_en: Habit Engine
 description: |
   习惯与行动力引擎：用户卡在"想做但做不到"时使用。先翻旧账找出他上次死在哪，再把愿望剥成动作，
   铺装置（环境/锚点句/保底版/申报/监督人/押金/追踪），然后四周内按每日申报自动调参。
